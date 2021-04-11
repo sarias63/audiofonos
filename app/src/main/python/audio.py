@@ -1,4 +1,4 @@
-import youtube_dl
+from java import youtube_dl
 
 def main(plain_text_input):
 
